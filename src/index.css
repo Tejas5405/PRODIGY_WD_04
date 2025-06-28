@@ -1,0 +1,14 @@
+/* Basic CSS reset and styles */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9fafb;
+    color: #333;
+}
+
+h1 {
+    color: #1a202c;
+    text-align: center;
+    margin-top: 2rem;
+}
